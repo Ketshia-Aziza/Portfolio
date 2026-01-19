@@ -20,7 +20,7 @@ My research interests center on:
 ## 🧪 Projects
 
 ### 🔥 **Computational Design and CFD Simulation of a Household Biogas Burner**   
-📂 Repository: `Ketshia-Aziza/Biogas_Cookstove_Design_and_CFDSimulation`
+📂 Repository: [`Ketshia-Aziza/Biogas_Cookstove_Design_and_CFDSimulation`](https://github.com/Ketshia-Aziza/Biogas_Cookstove_Design_and_CFDSimulation)
 
 This project integrates:
 
@@ -80,8 +80,10 @@ The repository contains the full workflow, including CAD files, MATLAB scripts, 
 
 ## 📫 Let’s Connect
 
-- **Email:** kethiaaziza@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/ketshia-ngalula-aziza-b5b00b122  
+- **Email:** [kethiaaziza@gmail.com](mailto:kethiaaziza@gmail.com)
+
+- **LinkedIn:** [linkedin.com/in/ketshia-ngalula-aziza-b5b00b122](https://www.linkedin.com/in/ketshia-ngalula-aziza-b5b00b122)
+
 
 I am always open to insightful discussions, collaborations, and research opportunities in **energy systems modelling and sustainable development**.
 
