@@ -1,6 +1,6 @@
 # 👋 Hello, I am Ketshia NGALULA AZIZA  
 
-**Energy Engineer | Researcher | Computational Modelling Enthusiast**  
+** MSC Energy Engineer | Computational Modelling Enthusiast**  
 
 ## 🔍 About Me
 
