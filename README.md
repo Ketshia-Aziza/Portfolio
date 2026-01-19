@@ -20,7 +20,7 @@ My research interests center on:
 ## 🧪 Projects
 
 ### 🔥 **Computational Design and CFD Simulation of a Household Biogas Burner**   
-📂 Repository: `Biogas_Cookstove_Design_and_CFDSimulation`
+📂 Repository: `Ketshia-Aziza/Biogas_Cookstove_Design_and_CFDSimulation`
 
 This project integrates:
 
